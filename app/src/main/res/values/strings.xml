@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keybox Revocation Checker</string>
+    <string name="pick_file">Select keybox.xml</string>
+    <string name="refresh">Refresh</string>
+    <string name="strong_integrity">STRONG INTEGRITY</string>
+    <string name="weak_integrity">INTEGRITY BROKEN</string>
+    <string name="checking">Checking...</string>
+</resources>
